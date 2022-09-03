@@ -1,6 +1,6 @@
 # Windows_ENV
 
-使用Chocolatey对WIN基础环境进行配置
+使用Chocolatey对Windows基础环境进行配置
 
 [Chocolatey Package Repository](https://community.chocolatey.org/packages)
 
