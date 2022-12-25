@@ -8,4 +8,4 @@
 
 ## 启动
 
-科学上网，启动Windows_Base_Soft_INIT.bat脚本，自动安装Chocolatey，并安装Windows_Chocolatey_Package_Config.config配置文件中的软件
+科学上网，启动 Windows_Base_Soft_INIT.bat 脚本，自动安装Chocolatey，并安装 Windows_Chocolatey_Package_Config.config 配置文件中的软件
